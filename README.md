@@ -1,2 +1,2 @@
 # FinalProject-BubbleSort
-Enter eight random digits to be sorted in ascending order. 
+The purpose of this project is to take eight randon numbers entered by user. The program them sorts them in ascending order. 
